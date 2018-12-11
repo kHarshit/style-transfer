@@ -9,3 +9,5 @@ A **Neural Algorithm of Artistic Style** that can separate and recombine the ima
 You can read the **summary** of the above paper [here](https://github.com/aleju/papers/blob/master/neural-nets/A_Neural_Algorithm_for_Artistic_Style.md).
 
 The jupyter notebook is from the **PyTorch Scholarship Challenge** from Udacity and facebook.
+
+**NOTE:** If the notebook doesn't render here on GitHub, try it on [nbviewer](https://nbviewer.jupyter.org/github/kHarshit/style-transfer/blob/master/Style%20Transfer%20%28PyTorch%29.ipynb).

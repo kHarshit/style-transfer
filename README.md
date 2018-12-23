@@ -11,3 +11,10 @@ You can read the **summary** of the above paper [here](https://github.com/aleju/
 The jupyter notebook is from the **PyTorch Scholarship Challenge** from Udacity and facebook.
 
 **NOTE:** If the notebook doesn't render here on GitHub, try it on [nbviewer](https://nbviewer.jupyter.org/github/kHarshit/style-transfer/blob/master/Style%20Transfer%20%28PyTorch%29.ipynb).
+
+
+## Example
+
+  content image            |  style image             | output image
+:-------------------------:|:------------------------:|:-------------------------:
+<img src="./images/harshit.jpg" width=420px /> | ![starrynight.jpg](./images/starrynight.jpg) | ![harshit_style.jpg](./images/harshit_style.jpg)

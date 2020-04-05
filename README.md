@@ -1,3 +1,5 @@
+***Update:** Please check [udacity-nanodegree-projects](https://github.com/kHarshit/udacity-nanodegree-projects) repository!*
+
 # Style Transfer in PyTorch
 
 The jupyter notebook decribes the style transfer implementation of [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) by *Leon A. Gatys et al.*
